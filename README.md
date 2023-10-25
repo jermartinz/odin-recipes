@@ -1,2 +1,2 @@
 # odin-recipes
-Basic recipe website (Odin Project)
+Basic recipes website (Odin Project)
